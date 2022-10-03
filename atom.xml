@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/mj5219054/ladf.github.io</id>
+    <title>叶子的博客</title>
+    <updated>2022-10-03T05:54:00.969Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/mj5219054/ladf.github.io"/>
+    <link rel="self" href="https://github.com/mj5219054/ladf.github.io/atom.xml"/>
+    <subtitle>把记录滴滴，分享学习上的经验知识改为记录日常生活的点点滴滴，分享工作和学习上的经验知识</subtitle>
+    <logo>https://github.com/mj5219054/ladf.github.io/images/avatar.png</logo>
+    <icon>https://github.com/mj5219054/ladf.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 叶子的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[                            钓鱼商业]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/diao-yu-shang-ye/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/diao-yu-shang-ye/">
+        </link>
+        <updated>2022-10-03T05:31:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                                         交易笔记]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/1/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/1/">
+        </link>
+        <updated>2022-10-01T01:50:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                          私募与债卷]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/si-mu-yu-zhai-juan/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/si-mu-yu-zhai-juan/">
+        </link>
+        <updated>2022-09-30T12:04:30.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                                     钱从哪里来]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/qian-cong-na-li-lai/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/qian-cong-na-li-lai/">
+        </link>
+        <updated>2022-09-30T04:23:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                                      金融市场投资]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/jin-rong-shi-chang-tou-zi/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/jin-rong-shi-chang-tou-zi/">
+        </link>
+        <updated>2022-09-30T04:16:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                              谈与论和言]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/tan-yu-lun-he-yan/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/tan-yu-lun-he-yan/">
+        </link>
+        <updated>2022-09-28T11:19:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                      万元陷阱和智猪博弈]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/wan-yuan-xian-jing-he-zhi-zhu-bo-yi/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/wan-yuan-xian-jing-he-zhi-zhu-bo-yi/">
+        </link>
+        <updated>2022-09-28T11:06:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                        生活笔记]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/sheng-huo-bi-ji/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/sheng-huo-bi-ji/">
+        </link>
+        <updated>2022-09-27T07:32:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                        一张表区分专业人才与管理人才 ]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/7LO7tovUv/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/7LO7tovUv/">
+        </link>
+        <updated>2022-09-27T02:22:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[                          管理   ]]></title>
+        <id>https://github.com/mj5219054/ladf.github.io/post/SDlSDSC_1/</id>
+        <link href="https://github.com/mj5219054/ladf.github.io/post/SDlSDSC_1/">
+        </link>
+        <updated>2022-09-27T01:52:52.000Z</updated>
+    </entry>
+</feed>
